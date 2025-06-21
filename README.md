@@ -1,4 +1,4 @@
-💻🔰Vin Tristan Balajadia
+💻🔰Vin Tristan E. Balajadia
 
 Hi there 👋
 
