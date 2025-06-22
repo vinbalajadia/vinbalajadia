@@ -7,7 +7,7 @@ My name is Vin Tristan E. Balajadia, currently studying Bachelor of Science in C
 - 🔭 Currently working on: **Perfume Scent Recommendation System**
 - 💡 Fun Fact: I love collecting perfumes! 💕
 
-### 💼 Languages and Tools
+                                     ### 💼 Languages and Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
