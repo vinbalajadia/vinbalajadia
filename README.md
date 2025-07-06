@@ -4,7 +4,7 @@ Hi there 👋
 
 My name is Vin Tristan E. Balajadia, currently studying Bachelor of Science in Computer Science with Specialization in Software Engineering at [FEU Institute of Technology.](https://www.feutech.edu.ph/)
 
-- 🔭 Currently working on: **Perfume Scent Recommendation System**
+- 🔭 Currently working on: **iRequest—A Web-Based Student Document Request Management System**
 - 💡 Fun Fact: I love collecting perfumes! 💕
 
   ### 💼 Languages and Tools
