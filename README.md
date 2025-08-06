@@ -7,7 +7,7 @@ My name is Vin Tristan E. Balajadia, currently studying Bachelor of Science in C
 - Currently working on: **iRequest—A Web-Based Student Document Request Management System**
 - Fun Fact: I love collecting perfumes! 
 
-  ###  Languages, Frameworks, and Tools
+  <h3 align="center">Languages, Frameworks, and Tools</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
