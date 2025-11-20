@@ -64,10 +64,6 @@ Currently taking BS Computer Science (Software Engineering) at <b>FEU Institute 
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/vinbalajadia" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vin-tristan-balajadia-a85a56383/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" />
   </a>
