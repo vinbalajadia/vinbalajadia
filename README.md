@@ -49,11 +49,11 @@ Currently taking BS Computer Science (Software Engineering) at <b>FEU Institute 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinbalajadia&show_icons=true&theme=tokyonight&hide_border=true" style="max-width: 200px; width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinbalajadia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&width=300"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinbalajadia&layout=compact&theme=tokyonight&hide_border=true" style="max-width: 200px; width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinbalajadia&layout=compact&theme=tokyonight&hide_border=true&width=300"/>
 </p>
 
 ---
