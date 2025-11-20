@@ -1,73 +1,77 @@
 <h1 align="center">👨‍💻 Vin Tristan E. Balajadia</h1>
 
 <p align="center">
-Aspiring <b>Software Engineer</b> with growing experience in backend systems, algorithms, and practical AI-driven solutions.  
-Focused on building reliable, scalable applications and exploring how machine learning can be deployed efficiently on the edge.  
+Aspiring <b>Software / AI Engineer</b> specializing in backend systems, algorithms, and practical machine learning applications.  
 Currently taking BS Computer Science (Software Engineering) at <b>FEU Institute of Technology</b>.
 </p>
 
+---
+
+## About Me
+- Backend-focused with interest in scalable systems  
+- Experience in Laravel, .NET Core, and SQL
+- Passionate about clean code & performance optimization  
+- Exploring AI + edge computing integrations  
 
 ---
 
-## 🚀 About Me
-- Focused on backend architecture, algorithms, and scalable systems  
-- Experienced with Laravel, .NET Core, SQL databases, and frontend frameworks  
-- Loves solving real-world problems with clean and maintainable code  
-- Interested in edge computing and performance optimization  
-
----
-
-## 🔧 Tech Stack
+## Tech Stack
 
 ### **Languages**
-<p align="left">
-     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-</p>
+<div align="left">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+
+</div>
 
 ### **Frameworks & Tools**
-<p align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
-</p>
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinbalajadia&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinbalajadia&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinbalajadia&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinbalajadia&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-## 🚀 Current Projects
-- **iRequest – Student Document Management System** (Laravel + Tailwind)
+## Current Projects
+- **iRequest — Student Document Request System** (Laravel + Tailwind)
 
 ---
 
-## 🌐 Connect with Me
+## Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/vin-tristan-balajadia-a85a56383/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/balajadia.tristan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" height="40" />
+  &nbsp;
+  <a href="https://facebook.com/balajadia.tristan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
 </p>
