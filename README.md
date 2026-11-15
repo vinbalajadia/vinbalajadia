@@ -1,9 +1,10 @@
-<a href="https://vinbalajadia-one.vercel.app">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img src="assets/banner-light.png" width="100%" alt="Vin Tristan Balajadia: AI Engineer and Computer Science student, building AI-powered solutions across machine learning, edge computing, and full-stack development. Open to internships; expected graduation September 2027.">
-  </picture>
-</a>
+<h1 align="center">Vin Tristan Balajadia</h1>
+
+<p align="center">
+  <b>AI Engineer</b> · Computer Science student at FEU Institute of Technology<br>
+  Building AI-powered solutions across machine learning, edge computing, and full-stack development.<br>
+  <sub>Open to internships · Expected graduation: September 2027</sub>
+</p>
 
 <p align="center">
   <a href="https://vinbalajadia-one.vercel.app">
@@ -132,10 +133,21 @@ Also: object-oriented programming, data structures and algorithms, and GUI devel
   <img src="assets/github-stats-light.svg" width="100%" alt="My GitHub activity over the last 12 months: total contributions, a day-by-day activity map, and top languages in my public repositories.">
 </picture>
 
-## 05 — Certifications & community
+## 05 — Certifications
 
-- **[IT Specialist – Python](https://www.credly.com/badges/829cc47d-0892-446d-afde-25caff206e93)** · Certiport (Pearson VUE) · July 2025
-- **[PMI Project Management Ready™](https://www.credly.com/badges/e4e0cf0f-4cfa-4163-8020-ddfc6b5f8acd)** · Project Management Institute · March 2026
-- **Association for Computing Machinery** · Junior Officer, Logistics Committee · September 2025 – June 2026
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/829cc47d-0892-446d-afde-25caff206e93"><img src="assets/badges/it-specialist-python.png" width="110" height="110" alt="IT Specialist – Python badge"></a><br>
+      <b><a href="https://www.credly.com/badges/829cc47d-0892-446d-afde-25caff206e93">IT Specialist – Python</a></b><br>
+      <sub>Certiport (Pearson VUE) · July 2025</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/e4e0cf0f-4cfa-4163-8020-ddfc6b5f8acd"><img src="assets/badges/pmi-project-management-ready.png" width="110" height="110" alt="PMI Project Management Ready badge"></a><br>
+      <b><a href="https://www.credly.com/badges/e4e0cf0f-4cfa-4163-8020-ddfc6b5f8acd">PMI Project Management Ready™</a></b><br>
+      <sub>Project Management Institute · March 2026</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center"><sub>Want the full picture? Visit <a href="https://vinbalajadia-one.vercel.app">vinbalajadia-one.vercel.app</a>.</sub></p>
