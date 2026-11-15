@@ -1,5 +1,6 @@
-# Rebuilds the GitHub activity cards shown in the README (assets/github-stats-*.svg)
-# every day, using this workflow's own token. Nothing outside GitHub is involved.
+# Updates the README's GitHub activity section every day: the numbers (as README
+# text) and the activity map (assets/github-stats-*.svg), using this workflow's own
+# token. Nothing outside GitHub is involved.
 name: GitHub stats
 
 on:
@@ -32,5 +33,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-stats-light.svg assets/github-stats-dark.svg
+          git add README.md assets/github-stats-light.svg assets/github-stats-dark.svg
           git diff --cached --quiet || { git commit -m "Update GitHub stats"; git push; }

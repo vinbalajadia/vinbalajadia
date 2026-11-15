@@ -2,48 +2,46 @@
 
 <p align="center">
   <b>AI Engineer</b> · Computer Science student at FEU Institute of Technology<br>
-  Building AI-powered solutions across machine learning, edge computing, and full-stack development.<br>
-  <sub>Open to internships · Expected graduation: September 2027</sub>
+  Building AI-powered solutions across machine learning, edge computing, and full-stack development.
 </p>
+
+<p align="center"><b>Open to internships</b> · Expected graduation: September 2027</p>
 
 <p align="center">
   <a href="https://vinbalajadia-one.vercel.app">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-f4f4f5?style=for-the-badge">
-      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-30363d?style=for-the-badge">
+      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-24292f?style=for-the-badge">
     </picture>
   </a>
   <a href="https://vinbalajadia-one.vercel.app/vin-tristan-balajadia-resume.pdf">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/R%C3%A9sum%C3%A9-f4f4f5?style=for-the-badge">
-      <img alt="Résumé (PDF)" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-0a0a0a?style=for-the-badge">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/R%C3%A9sum%C3%A9-30363d?style=for-the-badge">
+      <img alt="Résumé (PDF)" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-24292f?style=for-the-badge">
     </picture>
   </a>
   <a href="https://ph.linkedin.com/in/vin-tristan-balajadia-a85a56383">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-f4f4f5?style=for-the-badge">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-30363d?style=for-the-badge">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-24292f?style=for-the-badge">
     </picture>
   </a>
   <a href="mailto:balajadiavintristan@gmail.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-f4f4f5?style=for-the-badge">
-      <img alt="Email" src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-30363d?style=for-the-badge">
+      <img alt="Email" src="https://img.shields.io/badge/Email-24292f?style=for-the-badge">
     </picture>
   </a>
 </p>
 
-<p align="center">
-  Have a question about my work? <a href="https://vinbalajadia-one.vercel.app"><b>Ask the AI assistant on my portfolio</b></a>.<br>
-  <sub>It answers from my résumé, in English or Filipino.</sub>
-</p>
+<p align="center">Questions about my work? <a href="https://vinbalajadia-one.vercel.app">Ask the AI assistant on my portfolio</a>. It answers from my résumé, in English or Filipino.</p>
 
 ## 01 — About
 
-I'm a Computer Science student at **FEU Institute of Technology** (BS Computer Science, specializing in Software Engineering; expected graduation **September 2027**), working toward a career as an **AI Engineer**. My work spans machine learning, edge computing, and full-stack development, with a focus on turning ideas into practical, usable applications.
+I'm a Computer Science student at **FEU Institute of Technology**, specializing in Software Engineering, with graduation expected in **September 2027**. I'm working toward a career as an **AI Engineer**, building practical applications across machine learning, edge computing, and full-stack development.
 
 - **Now:** building [Harap](https://github.com/vinbalajadia/Harap), an AI interview coaching platform
-- **Interested in:** real-time computer vision and on-device machine learning on edge hardware like the Raspberry Pi
+- **Interested in:** real-time computer vision and on-device machine learning on hardware like the Raspberry Pi
 - **Open to:** internships. Reach me by [email](mailto:balajadiavintristan@gmail.com) or on [LinkedIn](https://ph.linkedin.com/in/vin-tristan-balajadia-a85a56383)
 
 ## 02 — Featured projects
@@ -56,7 +54,7 @@ Keeping track of an older adult's activity usually takes someone watching, in pe
 
 | Accuracy | Mean latency | Average CPU usage |
 | :---: | :---: | :---: |
-| **98.83%** | **25.25 ms** | **71.39%** <sub>(down from 79.41%)</sub> |
+| **98.83%** | **25.25 ms** | **71.39%** (from 79.41%) |
 
 `Python` `TensorFlow` `OpenCV` `MediaPipe` `MobileNet` `Raspberry Pi`
 
@@ -70,7 +68,9 @@ Keeping track of an older adult's activity usually takes someone watching, in pe
 
 ### TAKO · AI-Powered Gamified Study Companion
 
-**Database Administrator** · 🏆 **2nd Runner-Up out of 40 teams**, ACM TechSprint Hackathon (FEU Tech) · [Demo video ↗](https://drive.google.com/drive/folders/1j659qZ_r7TiUOjS0bUmvKTWz3gKcODEp) · [Repository ↗](https://github.com/vinbalajadia/tako-game)
+**Database Administrator** · [Demo video ↗](https://drive.google.com/drive/folders/1j659qZ_r7TiUOjS0bUmvKTWz3gKcODEp) · [Repository ↗](https://github.com/vinbalajadia/tako-game)
+
+🏆 **2nd Runner-Up out of 40 teams** at the ACM TechSprint Hackathon, FEU Tech
 
 Many Filipino students can't easily get a tutor, have slow or unreliable internet, or learn best in Filipino. Built for a hackathon challenge from Accenture, TAKO is an RPG-based study companion that explains concepts in Filipino and English, offers adaptive practice, and is designed to work on low-bandwidth connections. I managed its Supabase data layer.
 
@@ -78,59 +78,27 @@ Many Filipino students can't easily get a tutor, have slow or unreliable interne
 
 ## 03 — Tech stack
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" title="C++">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" title="Java">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript">
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI & edge computing</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" title="OpenCV">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="36" height="36" alt="Raspberry Pi" title="Raspberry Pi">
-      <br><sub>MediaPipe · MobileNet · CUDA · OpenACC</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Web development</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" title="React">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" title="Node.js">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" title="HTML">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" title="CSS">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" height="36" alt="PHP" title="PHP">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="36" height="36" alt="Laravel" title="Laravel">
-      <br><sub>Express</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data & tools</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" title="MySQL">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="36" height="36" alt="Supabase" title="Supabase">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" title="VS Code">
-      <br><sub>GitHub</sub>
-    </td>
-  </tr>
-</table>
-
-Also: object-oriented programming, data structures and algorithms, and GUI development.
+| Area | Skills |
+| --- | --- |
+| **Languages** | Python · C++ · Java · JavaScript · TypeScript |
+| **AI & edge computing** | TensorFlow · OpenCV · MediaPipe · MobileNet · Raspberry Pi · CUDA · OpenACC |
+| **Web development** | React · Node.js · Express · HTML · CSS · Tailwind CSS · PHP · Laravel |
+| **Data & tools** | MySQL · PostgreSQL · Supabase · Git · GitHub · VS Code |
+| **Foundations** | Object-oriented programming · Data structures and algorithms · GUI development |
 
 ## 04 — GitHub activity
 
+<!-- github-stats:start -->
+<p>
+<b>25 contributions</b> in the last 12 months · 23 commits · 2 public repositories<br>
+Top languages in my public repositories: TypeScript 90% · PLpgSQL 5.4% · JavaScript 3.8% · CSS 0.7%<br>
+<sub>Updated daily · last update Nov 15, 2026</sub>
+</p>
+<!-- github-stats:end -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-stats-dark.svg">
-  <img src="assets/github-stats-light.svg" width="100%" alt="My GitHub activity over the last 12 months: total contributions, a day-by-day activity map, and top languages in my public repositories.">
+  <img src="assets/github-stats-light.svg" width="100%" alt="Activity map of my GitHub contributions over the last 12 months, one dot per day; busier days have bigger dots.">
 </picture>
 
 ## 05 — Certifications
