@@ -91,8 +91,8 @@ Many Filipino students can't easily get a tutor, have slow or unreliable interne
 <!-- github-stats:start -->
 <p>
 <b>26 contributions</b> in the last 12 months · 24 commits · 2 public repositories<br>
-Top languages in my public repositories: TypeScript 90% · PLpgSQL 5.4% · JavaScript 3.5% · CSS 0.7%<br>
-<sub>Updated daily · last update Nov 15, 2026</sub>
+Top languages in my public repositories: TypeScript 90% · PLpgSQL 5.4% · JavaScript 3.4% · CSS 0.7%<br>
+<sub>Updated daily · last update Nov 16, 2026</sub>
 </p>
 <!-- github-stats:end -->
 
