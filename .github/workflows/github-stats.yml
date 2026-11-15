@@ -1,0 +1,36 @@
+# Rebuilds the GitHub activity cards shown in the README (assets/github-stats-*.svg)
+# every day, using this workflow's own token. Nothing outside GitHub is involved.
+name: GitHub stats
+
+on:
+  schedule:
+    - cron: "17 16 * * *" # daily at 16:17 UTC, just after midnight in the Philippines
+  workflow_dispatch: # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths: [scripts/github-stats.mjs, .github/workflows/github-stats.yml]
+
+permissions:
+  contents: write # to commit the updated cards
+
+concurrency:
+  group: github-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Build the stats cards
+        run: node scripts/github-stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit the cards if they changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats-light.svg assets/github-stats-dark.svg
+          git diff --cached --quiet || { git commit -m "Update GitHub stats"; git push; }
